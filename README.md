@@ -23,7 +23,7 @@ Hello, my name is Rahil and I am a master's student at [Hochschule Schmalkalden]
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: rahilkalola@gmail.com
 - ⚡ Checkout my [Linkedin](www.linkedin.com/in/rahil-kalola)
-- 📝 [Resume]()
+- 📝 [Resume](https://github.com/rahilkalola17/rahilkalola17/blob/main/Rahil_Resume.pdf)
 
 **Languages and Tools:** 
 
